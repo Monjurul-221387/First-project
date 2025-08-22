@@ -14,12 +14,10 @@ It currently doesn't allow students/staff to login.
 ## Usage
 Install in a Virtual Environment. Once you have set up a VE, clone this project
 ```bash
-git clone https://github.com/adigunsherif/Django-School-Management-System.git
+clone https://github.com/Monjurul-221387/First-project.git
 ```
-Then
-
 ```bash
-cd Django-School-Management-System
+cd School_Management_System
 ```
 Run
 
