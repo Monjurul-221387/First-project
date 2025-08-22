@@ -1,0 +1,12 @@
+/* Change the background of the admin login and dashboard */
+body {
+    background-image: url('/static/images/school_bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Optional: Make the admin panel semi-transparent */
+#content, #header, #footer {
+    background-color: rgba(255, 255, 255, 0.85); /* white with transparency */
+}
